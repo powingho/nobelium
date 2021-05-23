@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'KEONANDC',
   author: 'powingho',
-  email: '',
+  email: 'keonyuri@gmail.com',
   link: 'https://hercoffee.hotpotwing.tk',
   description: '',
   lang: 'en-US',
