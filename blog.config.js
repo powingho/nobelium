@@ -2,7 +2,7 @@ const BLOG = {
   title: 'KEONANDC',
   author: 'powingho',
   email: '',
-  link: 'https://powingho.vercel.app',
+  link: 'https://hercoffee.hotpotwing.tk',
   description: '',
   lang: 'en-US',
   appearance: 'light', // ['light', 'dark', 'auto'],
