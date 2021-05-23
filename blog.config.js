@@ -3,7 +3,7 @@ const BLOG = {
   author: 'powingho',
   email: '',
   link: 'https://powingho.vercel.app',
-  description: '少女时代｜权俞利｜权侑莉｜徐贤｜徐珠贤｜林允儿｜林润娥｜黄美英｜Tiffany｜崔秀英｜采访｜翻译｜中字',
+  description: '',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
