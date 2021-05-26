@@ -3,7 +3,7 @@ const BLOG = {
   author: 'hercoffee',
   email: 'nanagubenzim@yahoo.com',
   link: 'https://hercoffee.hotpotwing.tk',
-  description: '',
+  description: '原来寂寞的人都一样',
   lang: 'en-US',
   appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
