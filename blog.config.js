@@ -18,7 +18,7 @@ const BLOG = {
   autoCollapsedNavBar: false, // the automatically collapsed navigation bar
   socialLink: 'https://space.bilibili.com/9337102',
   seo: {
-    keywords: ['少女时代', '翻译', '中字', '权俞利', '权侑莉', '徐贤', '徐珠贤', '崔秀英', '林允儿', '林润娥', '崔秀英', '黄美英', 'Tiffany Young'],
+    keywords: ['少女时代', '翻译', '中字', '采访翻译', '中文字幕', '采访', '权俞利', '权侑莉', '徐贤', '徐珠贤', '崔秀英', '林允儿', '林润娥', '崔秀英', '黄美英', 'Tiffany Young'],
     googleSiteVerification: 'UA-145324150-1' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
