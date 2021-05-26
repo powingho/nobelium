@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'KEONANDC',
-  author: '一个何宝荣',
+  author: 'hercoffee',
   email: 'nanagubenzim@yahoo.com',
   link: 'https://hercoffee.hotpotwing.tk',
   description: '',
