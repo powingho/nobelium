@@ -19,12 +19,12 @@ const BLOG = {
   socialLink: 'https://space.bilibili.com/9337102',
   seo: {
     keywords: ['少女时代', '翻译', '中字', '采访翻译', '中文字幕', '采访', '权俞利', '权侑莉', '徐贤', '徐珠贤', '崔秀英', '林允儿', '林润娥', '崔秀英', '黄美英', 'Tiffany Young'],
-    googleSiteVerification: 'UA-145324150-1' // Remove the value or replace it with your own google site verification code
+    googleSiteVerification: 'lP3HhlmAKdkgqV4uBznOZoyTKiqjYAhUoW_TFIQMj9A' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
   notionAccessToken: process.env.NOTION_ACCESS_TOKEN, // Useful if you prefer not to make your database public
   analytics: {
-    provider: '', // Currently we support Google Analytics and Ackee, please fill with 'ga' or 'ackee', leave it empty to disable it.
+    provider: 'ga', // Currently we support Google Analytics and Ackee, please fill with 'ga' or 'ackee', leave it empty to disable it.
     ackeeConfig: {
       tracker: '', // e.g 'https://ackee.craigary.net/tracker.js'
       dataAckeeServer: '', // e.g https://ackee.craigary.net , don't end with a slash
