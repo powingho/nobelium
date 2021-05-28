@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'KEONANDC',
+  title: 'HER COFFEE',
   author: 'hercoffee',
   email: 'nanagubenzim@yahoo.com',
   link: 'https://hercoffee.hotpotwing.tk',
