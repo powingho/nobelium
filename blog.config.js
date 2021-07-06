@@ -2,7 +2,7 @@ const BLOG = {
   title: 'HER COFFEE',
   author: 'hercoffee',
   email: 'nanagubenzim@yahoo.com',
-  link: 'https://hercoffee.hotpotwing.tk',
+  link: 'https://herwords.hercoffee.tk',
   description: '原来寂寞的人都一样',
   lang: 'en-US',
   appearance: 'light', // ['light', 'dark', 'auto'],
@@ -10,7 +10,7 @@ const BLOG = {
   lightBackground: '#FFFEFC', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#111827', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2019, // if leave this empty, current year will be used.
+  since: 2021, // if leave this empty, current year will be used.
   postsPerPage: 7,
   sortByDate: false,
   showAbout: true, // WIP
@@ -19,7 +19,7 @@ const BLOG = {
   socialLink: 'https://space.bilibili.com/9337102',
   seo: {
     keywords: ['少女时代', '翻译', '中字', '采访翻译', '中文字幕', '采访', '权俞利', '权侑莉', '徐贤', '徐珠贤', '崔秀英', '林允儿', '林润娥', '崔秀英', '黄美英', 'Tiffany Young'],
-    googleSiteVerification: 'lP3HhlmAKdkgqV4uBznOZoyTKiqjYAhUoW_TFIQMj9A' // Remove the value or replace it with your own google site verification code
+    googleSiteVerification: 'qdky0GVjiIW9ecBbgi7k3mv4734pqRK255E_ptObpIQ' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
   notionAccessToken: process.env.NOTION_ACCESS_TOKEN, // Useful if you prefer not to make your database public
@@ -31,7 +31,7 @@ const BLOG = {
       domainId: '' // e.g '0e2257a8-54d4-4847-91a1-0311ea48cc7b'
     },
     gaConfig: {
-      measurementId: 'G-ZD5MEW2BSH' // e.g: G-XXXXXXXXXX
+      measurementId: 'G-WL9C35YWR6' // e.g: G-XXXXXXXXXX
     }
   },
   comment: {
