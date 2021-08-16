@@ -1,5 +1,4 @@
 const BLOG = {
-<<<<<<< HEAD
   title: 'HER COFFEE',
   author: 'hercoffee',
   email: 'nanagubenzim@yahoo.com',
