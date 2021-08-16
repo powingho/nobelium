@@ -16,7 +16,7 @@ const BLOG = {
   showAbout: true, // WIP
   showArchive: true, // WIP
   autoCollapsedNavBar: true, // the automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: 'https://og-image-craigary.vercel.app/**KEON**ANDC%20%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fnobelium.vercel.app%2Flogo-for-light-bg.svg' //'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'https://space.bilibili.com/9337102',
   seo: {
     keywords: ['少女时代', '翻译', '中字', '采访翻译', '中文字幕', '采访', '权俞利', '权侑莉', '徐贤', '徐珠贤', '崔秀英', '林允儿', '林润娥', '崔秀英', '黄美英', 'Tiffany Young'],
