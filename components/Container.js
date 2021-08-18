@@ -40,7 +40,7 @@ const Container = ({ children, layout, fullWidth, ...customMeta }) => {
           property="og:image"
           content={`${BLOG.ogImageGenerateURL}/${encodeURIComponent(
             meta.title
-          )}.png?theme=dark&md=1&fontSize=125px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fvercel-triangle-black.svg&images=https%3A%2F%2Fher.hercoffee.tk%2Ffavicon.svg`}
+          )}.png?theme=light&md=1&fontSize=125px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fvercel-triangle-black.svg&images=https%3A%2F%2Fher.hercoffee.tk%2Ffavicon.svg`}
         />
         <meta property="og:type" content={meta.type} />
         <meta name="twitter:card" content="summary_large_image" />
@@ -50,7 +50,7 @@ const Container = ({ children, layout, fullWidth, ...customMeta }) => {
           name="twitter:image"
           content={`${BLOG.ogImageGenerateURL}/${encodeURIComponent(
             meta.title
-          )}.png?theme=dark&md=1&fontSize=125px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fvercel-triangle-black.svg&images=https%3A%2F%2Fher.hercoffee.tk%2Ffavicon.svg`}
+          )}.png?theme=light&md=1&fontSize=125px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fvercel-triangle-black.svg&images=https%3A%2F%2Fher.hercoffee.tk%2Ffavicon.svg`}
         />
         {meta.type === 'article' && (
           <>
