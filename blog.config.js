@@ -2,7 +2,7 @@ const BLOG = {
   title: 'HER COFFEE',
   author: 'hercoffee',
   email: 'nanagubenzim@yahoo.com',
-  link: 'https://herwords.hercoffee.tk',
+  link: 'https://her.hercoffee.tk',
   description: '原来寂寞的人都一样',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'light', // ['light', 'dark', 'auto'],
