@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'HER COFFEE',
   author: 'hercoffee',
-  email: 'nanagubenzim@yahoo.com',
+  email: 'smeir@smtown.com',
   link: 'https://hercoffee.vercel.app',
   description: '原来寂寞的人都一样',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
